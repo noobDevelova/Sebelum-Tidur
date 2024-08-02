@@ -1,50 +1,28 @@
-# Welcome to your Expo app 👋
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+    <img src="assets/icon/st_logo.svg" alt="Logo" width="80" height="80">
 
-## Get started
+  <h3 align="center">Sebelum Tidur</h3>
 
-1. Install dependencies
+  <p align="center">
+    Sebelum Tidur: Aplikasi Refleksi Harian
+  </p>
 
-   ```bash
-   npm install
-   ```
+</div>
 
-2. Start the app
+## Tentang Project Ini
 
-   ```bash
-    npx expo start
-   ```
+"Sebelum Tidur" adalah aplikasi mobile inovatif yang dirancang untuk membantu pelajar dari berbagai tingkat pendidikan (SMA hingga perguruan tinggi) mengelola stres akademik mereka melalui refleksi harian yang terarah. Aplikasi ini menyediakan platform aman bagi pengguna untuk merenungkan aktivitas dan perasaan mereka sebelum tidur, yang bertujuan untuk meningkatkan kesejahteraan mental dan kualitas tidur mereka.
 
-In the output, you'll find options to open the app in a
+Fitur Utama:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Refleksi Harian: Pengguna dapat menulis catatan harian untuk merefleksikan pengalaman dan emosi mereka.
+- Pelacak Mood: Fitur untuk mencatat suasana hati dan tren emosional dari waktu ke waktu.
+- Panduan Refleksi: Tips dan prompt untuk membantu pengguna dalam proses refleksi mereka.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Dibuat Dengan
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [![TypeScript][Typescript]]
+- [![ReactNative][ReactNative]]

@@ -5,15 +5,24 @@
 
 const tintColorLight = '#0a7ea4';
 const tintColorDark = '#fff';
+const primaryColor = '#6172F3';
+const primary200 = '#C7D7FE';
+const gray900 = '#101828';
+const gray500 = '#667085';
+const primary25 = '#F5F8FF';
 
 export const Colors = {
   light: {
-    text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
+    textPrimary: gray900,
+    textSecondary: primary25,
+    textGray: gray500,
+    background: '#FCFCFD',
+    tint: primaryColor,
+    tintDisabled: primary200,
+    lineDisabled: '#C7D7FE',
     icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
+    tabIconDefault: gray900,
+    tabIconSelected: primaryColor,
   },
   dark: {
     text: '#ECEDEE',
